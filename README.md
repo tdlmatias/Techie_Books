@@ -86,10 +86,10 @@ The goal is simple: **keep good learning material free and easy to find**, and l
 | [Routing](Routing.pdf) |
 | [TCP / UDP](TCP%20UDP.pdf) |
 | [Protocols](protocol.pdf) |
-| [Link Layer Devices](Link%20layer%20drvice.pdf) |
+| [Link Layer Devices](Link%20layer%20device.pdf) |
 | [SIP — Understanding the Session Initiation Protocol](SIP_Understanding_the_Session_Initiation.pdf) |
 | [Wireshark](wireshark.pdf) |
-| [Binary Arithmetic](binary%20airthmetic.pdf) |
+| [Binary Arithmetic](binary%20arithmetic.pdf) |
 
 ### 🛡️ Penetration Testing & Ethical Hacking
 
