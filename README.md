@@ -51,7 +51,7 @@ The goal is simple: **keep good learning material free and easy to find**, and l
    ```
 3. A few files are stored compressed — for example `.pdf.gz`. Decompress before reading:
    ```bash
-   gunzip "Vickie Li - Bug Bounty Bootcamp....pdf.gz"
+   gunzip "Vickie Li - Bug Bounty Bootcamp_ The Guide to Finding and Reporting Web Vulnerabilities-No Starch Press (2021).pdf.gz"
    ```
 
 > 💡 **Tip:** GitHub renders PDFs directly in the browser, so you can preview most books before downloading.
@@ -143,6 +143,7 @@ The goal is simple: **keep good learning material free and easy to find**, and l
 | [A Guide to Starting a Career in Cyber Security (2021)](A-Guide-To-Starting-A-Career-in-Cyber-Security-2021.pdf) |
 | [INE Cyber Security — User Guide](INE%20Cyber%20Security%20-%20User%20Guide.pdf) |
 | [Cyber Security Analyst](Cyber%20Security%20Analyst.pdf) |
+| [Introduction to the Information Security Field](1.pdf) |
 
 ### 🌍 Threat Intelligence, Governance & Emerging Topics
 
@@ -183,7 +184,7 @@ The goal is simple: **keep good learning material free and easy to find**, and l
 4. **Commit** and open a **pull request** describing the book and why it belongs here.
 5. That's it — a maintainer will review and merge. 🎉
 
-Prefer the web? You can even [upload a file straight from your browser](https://github.com/tdlmatias/Techie_Books/upload/master) on your fork and open the PR from there — no git required.
+Prefer the web? On **your fork**, use **Add file → Upload files**, drop the book in, commit, and open the pull request from there — no git required.
 
 See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full guide, including naming conventions and the checklist we use when reviewing.
 
